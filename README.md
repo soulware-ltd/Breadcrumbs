@@ -1,4 +1,4 @@
-#Number Summary For Breadcrumbs
+## Breadcrumbs for SugarView
 
 Adds Module Icon and Breadcrumbs to the Module line.
 
